@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[blogtest]]></title>
         <description><![CDATA[blogtest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blogtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 08:16:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 08:16:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blogtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EGYD | httpster.net]]></title>
+            <description><![CDATA[<article><h1>EGYD | httpster.net</h1><p>EGYD | This website tagged Colourful, Minimal, N.S. Layout, Online Store | Featured on httpster.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/289c9cc06c6bd3659e29015b6c02a89742a359ee.jpg"></article>]]></description>
+            <link>http://httpster.net/website/egyd/</link>
+            <guid isPermaLink="false">57a5e6c3-85dd-4ef5-98cc-caec24edb959</guid>
+            <pubDate>Wed, 13 Apr 2016 08:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portrait Photography by Liisa Härmson in Portraits]]></title>
             <description><![CDATA[<article><h1>Portrait Photography by Liisa Härmson in Portraits</h1><p>Designspiration is a tool for discovering great art, design, architecture, photography and web inspiration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d70289ecaa8c76fa0eba5f1c97b90aaf436c0aa.jpg"></article>]]></description>
