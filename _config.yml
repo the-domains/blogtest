@@ -1,7 +1,7 @@
 name: blogtest
 favicon: null
-layout_spectrum: 0.393740989966318
-typography_spectrum: 0.1820391931105405
+layout_spectrum: 0.97515
+typography_spectrum: 0.06903
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.24180739535950124
-  lightness: 0.8128112647682428
-  saturation: 0.9438392713200301
-  rhythmicContrast: 0.5217317740898579
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
