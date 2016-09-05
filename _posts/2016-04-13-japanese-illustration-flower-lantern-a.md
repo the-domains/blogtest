@@ -1,14 +1,11 @@
 ---
-author:
-  - name: gurafiku
-    url: 'http://gurafiku.tumblr.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://38.media.tumblr.com/avatar_cdd20043175f_128.png'
-  domain: gurafiku.tumblr.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  http://gurafiku.tumblr.com/post/142342807934/japanese-illustration-flower-lantern-aoi
+inLanguage: en
+starred: false
 keywords:
   - yotsutsuji
   - aoi
@@ -21,7 +18,13 @@ keywords:
   - keiichi
   - nagai
 description: 'Japanese Illustration: Flower Lantern. Aoi Yotsutsuji. 2015'
-inLanguage: en
+datePublished: '2016-09-02T05:00:59.015Z'
+dateModified: '2016-09-02T05:00:58.103Z'
+author:
+  - name: gurafiku
+    url: 'http://gurafiku.tumblr.com'
+    avatar: {}
+related: []
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934'
     type: ios
@@ -33,38 +36,40 @@ app_links:
     namespace: ai
     app_name: Tumblr
     package: com.tumblr
-  - url: 'tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934&referrer=twitter-cards
     namespace: twitter
     type: ipad
     name: Tumblr
     id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934&referrer=twitter-cards
     namespace: twitter
     type: iphone
     name: Tumblr
     id: '305343404'
-  - url: 'tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934&referrer=twitter-cards'
+  - url: >-
+      tumblr://x-callback-url/blog?blogName=gurafiku&postID=142342807934&referrer=twitter-cards
     namespace: twitter
     type: googleplay
     name: Tumblr
     id: com.tumblr
-  - path: 'tumblr/x-callback-url/blog?blogName=gurafiku%26postID=142342807934'
+  - path: tumblr/x-callback-url/blog?blogName=gurafiku%26postID=142342807934
     package: com.tumblr
     namespace: google
     type: android
-  - path: 'tumblr/x-callback-url/blog?blogName=gurafiku&postID=142342807934'
+  - path: tumblr/x-callback-url/blog?blogName=gurafiku&postID=142342807934
     package: '305343404'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://gurafiku.tumblr.com/post/142342807934/japanese-illustration-flower-lantern-aoi'
 title: 'Japanese Illustration: Flower Lantern. A...'
-datePublished: '2016-04-13T08:20:19.352Z'
-dateModified: '2016-04-13T08:19:25.562Z'
 sourcePath: _posts/2016-04-13-japanese-illustration-flower-lantern-a.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: gurafiku.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://38.media.tumblr.com/avatar_cdd20043175f_128.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
