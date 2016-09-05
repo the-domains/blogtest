@@ -4,7 +4,7 @@
         <description><![CDATA[Blogger]]></description>
         <link>https://thegrid.ai/blogtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:01:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blogtest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cool Socks | Fun Socks | Odd Socks | Mens Socks | Womens Socks]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.thisiscolossal.com/category/illustration/</link>
             <guid isPermaLink="false">d518a2b9-aedc-4aa5-a530-8fa64ec08002</guid>
             <pubDate>Fri, 02 Sep 2016 05:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photography]]></title>
+            <description><![CDATA[<article><h1>Photography</h1><p>Father and son Leopold and Rudolf Blaschka dedicated their lives to creating some of the most exquisite glass models ever produced by human hands over the course of overlapping careers spanning the mid 1800s through the 1930s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97103f3dc3fddb05ca585e6a52797b6e09da32ad.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/category/photography/</link>
+            <guid isPermaLink="false">d8afbbf4-cb72-49f9-8c91-dcd1761491bd</guid>
+            <pubDate>Fri, 02 Sep 2016 05:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Japanese Illustration: Flower Lantern. A...]]></title>
@@ -46,13 +53,6 @@
             <description><![CDATA[<article><h1>EGYD | httpster.net</h1><p>EGYD | This website tagged Colourful, Minimal, N.S. Layout, Online Store | Featured on httpster.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/289c9cc06c6bd3659e29015b6c02a89742a359ee.jpg"></article>]]></description>
             <link>http://httpster.net/website/egyd/</link>
             <guid isPermaLink="false">57a5e6c3-85dd-4ef5-98cc-caec24edb959</guid>
-            <pubDate>Wed, 13 Apr 2016 08:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photography]]></title>
-            <description><![CDATA[<article><h1>Photography</h1><p>Father and son Leopold and Rudolf Blaschka dedicated their lives to creating some of the most exquisite glass models ever produced by human hands over the course of overlapping careers spanning the mid 1800s through the 1930s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97103f3dc3fddb05ca585e6a52797b6e09da32ad.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/category/photography/</link>
-            <guid isPermaLink="false">d8afbbf4-cb72-49f9-8c91-dcd1761491bd</guid>
             <pubDate>Wed, 13 Apr 2016 08:16:11 GMT</pubDate>
         </item>
         <item>
