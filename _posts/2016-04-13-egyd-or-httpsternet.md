@@ -7,14 +7,16 @@ publisher:
   favicon: 'http://httpster.net/wp-content/themes/httpster_v2/images/favicon.ico'
   domain: httpster.net
 keywords: []
-description: 'EGYD | This website tagged Colourful, Minimal, N.S. Layout, Online Store | Featured on httpster.net'
+description: >-
+  EGYD | This website tagged Colourful, Minimal, N.S. Layout, Online Store |
+  Featured on httpster.net
 app_links: []
 isBasedOnUrl: 'http://httpster.net/website/egyd/'
-title: 'EGYD | httpster.net'
-datePublished: '2016-04-13T08:16:11.218Z'
-dateModified: '2016-04-13T08:14:05.633Z'
+title: EGYD | httpster.net
+datePublished: '2016-09-02T05:01:04.456Z'
+dateModified: '2016-09-02T05:01:03.917Z'
 sourcePath: _posts/2016-04-13-egyd-or-httpsternet.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
