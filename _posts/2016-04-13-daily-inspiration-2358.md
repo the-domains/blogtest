@@ -17,15 +17,17 @@ keywords:
   - raw
   - aoirostudio
   - images
-description: "This post is part of our daily series of posts showing the most inspiring images selected by some of the Abduzeedo's writers and users."
+description: >-
+  This post is part of our daily series of posts showing the most inspiring
+  images selected by some of the Abduzeedo's writers and users.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://abduzeedo.com/daily-inspiration-2358'
 title: 'Daily Inspiration #2358'
-datePublished: '2016-04-13T08:20:19.359Z'
-dateModified: '2016-04-13T08:17:04.017Z'
+datePublished: '2016-09-02T05:00:59.020Z'
+dateModified: '2016-09-02T05:00:58.103Z'
 sourcePath: _posts/2016-04-13-daily-inspiration-2358.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
