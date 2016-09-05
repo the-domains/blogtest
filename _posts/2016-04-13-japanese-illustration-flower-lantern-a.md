@@ -5,7 +5,6 @@ inNav: false
 isBasedOnUrl: >-
   http://gurafiku.tumblr.com/post/142342807934/japanese-illustration-flower-lantern-aoi
 inLanguage: en
-starred: false
 keywords:
   - yotsutsuji
   - aoi
@@ -18,8 +17,8 @@ keywords:
   - keiichi
   - nagai
 description: 'Japanese Illustration: Flower Lantern. Aoi Yotsutsuji. 2015'
-datePublished: '2016-09-02T05:00:59.015Z'
-dateModified: '2016-09-02T05:00:58.103Z'
+datePublished: '2016-09-02T05:01:10.937Z'
+dateModified: '2016-09-02T05:01:10.423Z'
 author:
   - name: gurafiku
     url: 'http://gurafiku.tumblr.com'
@@ -70,6 +69,8 @@ publisher:
   domain: gurafiku.tumblr.com
   url: 'http://tumblr.com'
   favicon: 'http://38.media.tumblr.com/avatar_cdd20043175f_128.png'
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
